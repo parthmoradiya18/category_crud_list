@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "489908699271",
+    "firebase_url": "https://databook-56f0c-default-rtdb.firebaseio.com",
+    "project_id": "databook-56f0c",
+    "storage_bucket": "databook-56f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489908699271:android:fd046f7bef13023c03f822",
+        "android_client_info": {
+          "package_name": "com.example.google_data"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWLnrXcd6twfCTuXGJpV98NgV9cKPFkTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
